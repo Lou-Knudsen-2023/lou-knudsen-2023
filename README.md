@@ -50,23 +50,23 @@ Right now I about about to look into three.js, next.js and because in my final p
   Group projects tackled at Devacademy:
 </h2>
 
-[Buddy!] 
+<strong> [Buddy!] </strong>
 A website that connects people new to Wellington to local Wellingtonians. Using all tech learnt across Devacademy. React, Redux, Redux Thunk, Knex, SQL lite, Typescript, Material UI. 
 (https://github.com/lou-knudsen-2023/devacademy-buddy)
 
-[--Get out of jail!--] 
+<strong>[--Get out of jail!--] </strong>
 Super cute starter react game! Completed with location based movement and character changes. It gets odd and the title actually has no reflection on the game itself - but was fun to make! 
 (https://github.com/lou-knudsen-2023/devacademy-react-game)
 
-[--Dev Deals--] 
+<strong>[--Dev Deals--] </strong>
 A community based board specifically for Tech people. Where you can post for buying, selling or general good fun. 
 (https://github.com/lou-knudsen-2023/devacademy-dev-deals)
 
-[--Lost and Found--] 
+<strong>[--Lost and Found--] </strong>
 Creating a place where people can find their lost pets or post found pets. 
 (https://github.com/lou-knudsen-2023/devacademy-lost-and-found)
 
-[--League management--] 
+<strong>[--League management--] </strong>
 This website was intended for a manager of a league, where they could go in and manage a team of players. 
 The stretch challenge on this was to get to trading players between teams - but we didn't quite get there. 
 (https://github.com/lou-knudsen-2023/devacademy-league-management)
