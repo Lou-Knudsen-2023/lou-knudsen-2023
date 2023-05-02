@@ -28,7 +28,7 @@ Express
 <br>
 SQL Lite
   </strong>
-
+  <br>
 <p>
 My main goal right now is just learn from great people, and keep on coding. 
 </p>
