@@ -6,8 +6,8 @@
 
 Kia Ora, I'm Lou, a Full Stack Developer from the windy city of Wellington, NZ! I'm brand new to the coding world which makes me super excited to be here and just wanting to get my hands on everything.
 
-Recently, I completed a life changing bootcamp for software development and it has really cemented a need to code.
-Some of coding skills include:  
+Recently, I completed a life changing bootcamp for software development and it has really cemented a love of coding.
+Some of my coding skills include:  
 
 <strong>
 Javascript
