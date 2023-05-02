@@ -86,7 +86,7 @@ The stretch challenge on this was to get to trading players between teams - but 
  ---
  
  <h2>
- 📫 I would love to connect!!
+ I would love to connect!!
 </h2>
 <p>
   <a href="https://www.linkedin.com/in/lou-knudsen-899125b0/"><img height="50" src="https://cdn2.iconfinder.com/data/icons/social-aquiocons/512/Aquicon-Linkedin.png"/></a> 
