@@ -45,7 +45,10 @@ My main goal right now is just learn from great people, and keep on coding.
 I'm so new to coding that I'm a 'coding magpie' so everything is shiny and exciting! There are so so many things I find I am drawn to. 
 Right now I about about to look into three.js, next.js and because in my final project at Devacademy I implemented Material UI -  i'm keen to look at another SASS design framework.
 </p>
-<br><br><br>
+<div>
+</div>
+
+
  ---
  
  <h2>
