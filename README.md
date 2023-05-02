@@ -52,27 +52,28 @@ Right now I about about to look into three.js, next.js and because in my final p
 A website that connects people new to Wellington to local Wellingtonians. Using all tech learnt across Devacademy. React, Redux, Redux Thunk, Knex, SQL lite, Typescript, Material UI. 
 (https://github.com/lou-knudsen-2023/devacademy-buddy)
 
-[Get out of jail!] 
+[--Get out of jail!--] 
 Super cute starter react game! Completed with location based movement and character changes. It gets odd and the title actually has no reflection on the game itself - but was fun to make! 
 (https://github.com/lou-knudsen-2023/devacademy-react-game)
 
-[Dev Deals] 
+[--Dev Deals--] 
 A community based board specifically for Tech people. Where you can post for buying, selling or general good fun. 
 (https://github.com/lou-knudsen-2023/devacademy-dev-deals)
 
-[Lost and Found] 
+[--Lost and Found--] 
 Creating a place where people can find their lost pets or post found pets. 
 (https://github.com/lou-knudsen-2023/devacademy-lost-and-found)
 
-[League management] 
+[--League management--] 
 This website was intended for a manager of a league, where they could go in and manage a team of players. 
 The stretch challenge on this was to get to trading players between teams - but we didn't quite get there. 
 (https://github.com/lou-knudsen-2023/devacademy-league-management)
+
  ---
  
- <h3>
+ <h2>
  📫 I would love to connect!!
-</h3>
+</h2>
 <p>
   <a href="https://www.linkedin.com/in/lou-knudsen-899125b0/"><img height="50" src="https://cdn2.iconfinder.com/data/icons/social-aquiocons/512/Aquicon-Linkedin.png"/></a> 
 
