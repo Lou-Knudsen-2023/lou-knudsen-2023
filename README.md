@@ -32,23 +32,13 @@ My main goal right now is just learn from great people, and keep on coding.
  ---
  
  <p>
-  <img width="250" align='left' src="X">
+  <img width="250" align='left' src="newperson.jpg">
 </p>
  
 ### 🌱 What I'm currently dabbling in...
 
 I'm so new to coding that I'm a 'coding magpie' so everything is shiny and exciting! There are so so many things I find I am drawn to. 
 Right now I about about to look into three.js, next.js and because in my final project at Devacademy I implemented Material UI -  i'm keen to look at another SASS design framework.
-
- ---
- 
- <p>
-  <img width="250" align='left' src="X">
-</p>
- 
-### What I'm currently dabbling in...
-
-I'm so new to coding that I'm a coding magpie so everything is shiny and exciting! There are so so many things I find I am drawn to. Right now I about about to look into three.js, next.js and because in my most recent final project at Devacademy I implemented Material UI im keen to look at another design library.
 
  ---
  
