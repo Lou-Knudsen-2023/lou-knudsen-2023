@@ -9,6 +9,7 @@ Kia Ora, I'm Lou, a Full Stack Developer from the windy city of Wellington, NZ! 
 Recently, I completed a life changing bootcamp for software development and it has really cemented a need to code.
 Some of the coding I learnt included:  
 
+<strong>
 Javascript
 <br>
 Typescript
@@ -26,6 +27,7 @@ Knex
 Express
 <br>
 SQL Lite
+  </strong>
 
 My main goal right now is just learn from great people, and keep on coding. 
  
