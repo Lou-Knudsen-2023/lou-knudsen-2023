@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Kia%20Ora!&animation=fadeIn&type=waving&color=gradient&height=100&customColorList=24"/>
+  <img src='./images/banner.png'>
 </p>
 
 
@@ -10,13 +10,21 @@ Recently, I completed a life changing bootcamp for software development and it h
 Some of the coding I learnt included:  
 
 Javascript
+<br>
 Typescript
+<br>
 React
+<br>
 Redux and redux thunk
+<br>
 HTML, CSS and SASS
+<br>
 Rest APIS
+<br>
 Knex
+<br>
 Express
+<br>
 SQL Lite
 
 My main goal right now is just learn from great people, and keep on coding. 
@@ -75,5 +83,8 @@ The stretch challenge on this was to get to trading players between teams - but 
 </h3>
 <p>
   <a href="https://www.linkedin.com/in/lou-knudsen-899125b0/"><img height="50" src="https://cdn2.iconfinder.com/data/icons/social-aquiocons/512/Aquicon-Linkedin.png"/></a> 
+
+</p>
+<p>  
   Or you can easily hit me up directly through my email lou.knudsen.nz@gmail.com
 </p>
